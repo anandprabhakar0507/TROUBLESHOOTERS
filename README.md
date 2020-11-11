@@ -3,13 +3,13 @@
 Team name : $_TROUBLESHOOTERS_$
 
 
-Participats:
+Participants:
 
-Jayit Saha
+1. Jayit Saha
 
-Ishita Dasgupta
+2. Ishita Dasgupta
 
-Jishnu Saurav Mittapalli
+3. Jishnu Saurav Mittapalli
 
 Deployed link : https://groc4-all.herokuapp.com/
 
