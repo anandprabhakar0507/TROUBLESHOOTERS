@@ -1,7 +1,10 @@
 # GrocForAll  - An E-Commerce Website
 
 Team name : $_TROUBLESHOOTERS_$
-
+Participats:
+Jayit Saha
+Ishita Dasgupta
+Jishnu Saurav Mittapalli
 
 Deployed link : https://groc4-all.herokuapp.com/
 
@@ -27,7 +30,7 @@ Clone the project repository
 
 ``` bash
 # change directory
-$ cd IBM_HACK
+$ cd GROC4ALL
 
 # Setup Virtual Environment(LINUX)
 $ virtualenv venv
