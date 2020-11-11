@@ -1,6 +1,6 @@
 # GrocForAll  - An E-Commerce Website
 
-Team name : Troubleshooters
+Team name : $__TROUBLESHOOTERS__$
 
 
 Deployed link : https://groc4-all.herokuapp.com/
